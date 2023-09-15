@@ -21,7 +21,7 @@ variable "words" {
 }
 
 variable "num_files" {
-    default = 100
+    default = 10
     type = number
 }
 
